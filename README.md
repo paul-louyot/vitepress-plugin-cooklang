@@ -14,7 +14,7 @@ npm install vitepress-plugin-cooklang
 
 ## Usage
 
-cf. [https://github.com/paul-louyot/vitepress-cooklang-demo](vitepress-cooklang-demo)
+cf. [vitepress-cooklang-demo](https://github.com/paul-louyot/vitepress-cooklang-demo)
 
 ## Contributing
 
